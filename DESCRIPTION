@@ -1,0 +1,10 @@
+Package: hypothesis
+Type: Package
+Title: hypothesis
+Version: 0.1.0
+Author: Anusree G
+Maintainer: Anusree G <deepshikhabsharma@gmail.com>
+Description: Takes a dataset as input and perform relevant statistical tests of the data and gives output.
+License: GPL-3
+Encoding: UTF-8
+LazyData: FLASE
